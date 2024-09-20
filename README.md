@@ -81,7 +81,17 @@ Welcome to the Operating Systems Lab repository! This repository contains notes,
 
 15. Process System calls
 
-16. 
+16.
+   a. Implement process synchronization using semaphores.
+   b. Simulation of Banker s algorithm to check whether the given system is in safe state or not. Also check whether addition resource requested can be granted immediately.
+
+17. Implement a data parallelism using multi-threading.
+
+18. Implement the below concepts:
+    a) Dynamic memory allocation algorithms - First-fit, Best-fit, Worst- fit algorithms.
+    b) Page Replacement Algorithms - FIFO, LRU and Optimal.
+
+19. Detailed Study Report on Virtualization Setup: Type-1, Type-2 Hypervisor.
 
 ## Contributing
 
